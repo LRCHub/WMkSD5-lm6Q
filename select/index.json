@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ありったけの輝きで",
+  "base_artist": "櫻木真乃 (CV.関根 瞳)",
+  "createdAt": "2026-01-12T10:51:41.714734Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ありったけの輝きで",
+      "artist": "櫻木真乃(関根瞳)",
+      "has_synced": false,
+      "path": "select/pl_01_ありったけの輝きで_櫻木真乃(関根瞳).txt"
+    }
+  ]
+}
